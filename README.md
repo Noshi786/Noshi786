@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Noshi 👋
+# Hi, I'm Noshin Fitras 👋
 
-### Software Developer · Web Applications · Automation
+### Software Developer · Web Applications · OOP Projects · Automation
 
 I enjoy turning ideas into useful digital experiences—from web apps and APIs to tools that make everyday workflows simpler.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Noshi786-181717?style=for-the-badge&logo=github)](https://github.com/Noshi786)
+[![GitHub](https://img.shields.io/badge/GitHub-NoshinFitras-181717?style=for-the-badge&logo=github)](https://github.com/NoshinFitras)
 [![JavaScript](https://img.shields.io/badge/JavaScript-building%20with-f7df1e?style=for-the-badge&logo=javascript&logoColor=111)](https://github.com/Noshi786?tab=repositories)
 [![PHP](https://img.shields.io/badge/PHP-building%20with-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Noshi786?tab=repositories)
 
@@ -19,12 +19,14 @@ I enjoy turning ideas into useful digital experiences—from web apps and APIs t
 - 💻 I build practical projects across web development, APIs, and automation.
 - 🧩 I like solving real problems and learning by shipping working software.
 - 🌱 Exploring better ways to build useful, reliable applications.
+- 📚 I enjoy working on projects that apply clean logic, reusable design patterns, and OOP concepts.
 - 📌 Take a look at my pinned repositories to see what I'm working on.
 
 ## Featured projects
 
 | Project | What it is |
 | --- | --- |
+| [Library Management System](https://github.com/Noshi786/library-management-system) | A JavaScript project built with OOP concepts for managing books, members, borrowing, and returns. |
 | [E-commerce Website](https://github.com/Noshi786/E-commerce-website) | A JavaScript project focused on an online shopping experience. |
 | [Support Ticket Automation](https://github.com/Noshi786/Noshin-Support-Ticket-Automation) | An automation project for support-ticket workflows. |
 | [GitHub Repository Analyzer](https://github.com/Noshi786/github-repository-analyzer) | A JavaScript tool for exploring GitHub repositories. |
