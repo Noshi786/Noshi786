@@ -4,13 +4,14 @@
 
 # Hi, I'm Noshin Fitras 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Application+Builder;OOP+and+JavaScript+Enthusiast;Automation+Learner;Always+building+and+learning" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Application+Builder;OOP+and+JavaScript;Learning+by+Building" alt="Software developer, web application builder, learning by building" />
 
 ### Software Developer · Web Applications · OOP · Automation
 
-I build practical digital experiences—from interactive web applications and APIs to tools that simplify everyday workflows. I enjoy learning by building, writing reusable code, and solving real problems.
+I build practical digital experiences—from interactive web applications and APIs to tools that simplify everyday workflows. I enjoy learning by building, writing reusable code, and solving real-world problems with thoughtful, user-focused solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Noshi786-181717?style=for-the-badge&logo=github)](https://github.com/Noshi786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noshin-fitras-6731b12b1)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Projects-f7df1e?style=for-the-badge&logo=javascript&logoColor=111)](https://github.com/Noshi786?tab=repositories)
 [![PHP](https://img.shields.io/badge/PHP-Projects-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Noshi786?tab=repositories)
 
@@ -25,13 +26,14 @@ I build practical digital experiences—from interactive web applications and AP
 - 🌱 Continuously learning and improving by creating real projects.
 - 🤝 Open to collaboration, learning opportunities, and interesting ideas.
 - 🔎 [Explore all my repositories](https://github.com/Noshi786?tab=repositories).
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/noshin-fitras-6731b12b1).
 
 ## 🚀 Featured projects
 
 | Project | About |
 | --- | --- |
 | [Library Management System](https://github.com/Noshi786/library-management-system) | JavaScript library domain project applying OOP concepts to books, members, borrowing, and returns. |
-| [Library Management Frontend](https://github.com/Noshi786/library-management-frontend) | React interface for the library app, built around an OOP JavaScript domain model with polymorphism, abstraction, and encapsulation. |
+| [Library Management Frontend](https://github.com/Noshi786/library-management-frontend) | React interface for a library app, built around an OOP JavaScript domain model. |
 | [E-commerce Website](https://github.com/Noshi786/E-commerce-website) | JavaScript project focused on an online shopping experience. |
 | [Support Ticket Automation](https://github.com/Noshi786/Noshin-Support-Ticket-Automation) | Automation project for support-ticket workflows. |
 | [GitHub Repository Analyzer](https://github.com/Noshi786/github-repository-analyzer) | JavaScript tool for exploring GitHub repositories. |
@@ -64,7 +66,7 @@ I build practical digital experiences—from interactive web applications and AP
 
 ## 📫 Let's connect
 
-Have an interesting idea or want to collaborate? [Visit my GitHub profile](https://github.com/Noshi786) or [browse my projects](https://github.com/Noshi786?tab=repositories).
+Have an interesting idea or want to collaborate? [Connect with me on LinkedIn](https://www.linkedin.com/in/noshin-fitras-6731b12b1), [visit my GitHub profile](https://github.com/Noshi786), or [browse my projects](https://github.com/Noshi786?tab=repositories).
 
 <div align="center">
 
