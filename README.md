@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Noshi 👋
+# Hi, I'm Noshin Fitras 👋
 
 ### Software Developer · Web Applications · Automation
 
