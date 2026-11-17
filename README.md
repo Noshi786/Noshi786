@@ -32,6 +32,7 @@ I build practical digital experiences—from interactive web applications and AP
 
 | Project | About |
 | --- | --- |
+| [StudyBuddy](https://github.com/Noshi786/Studybuddy) · [Live demo](https://studybuddy-tau-two.vercel.app/) | Python RAG study assistant that answers questions from uploaded course notes with citations; built with FastAPI, LangChain, Pinecone, BM25, pypdf, and python-docx. |
 | [Library Management System](https://github.com/Noshi786/library-management-system) | JavaScript library domain project applying OOP concepts to books, members, borrowing, and returns. |
 | [Library Management Frontend](https://github.com/Noshi786/library-management-frontend) | React interface for a library app, built around an OOP JavaScript domain model. |
 | [E-commerce Website](https://github.com/Noshi786/E-commerce-website) | JavaScript project focused on an online shopping experience. |
